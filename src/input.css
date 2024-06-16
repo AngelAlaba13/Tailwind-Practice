@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.head {
+    @apply sm:hover:border-b-4 border-b-slate-300 p-4
+}
+
+
